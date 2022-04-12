@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsNombreMunicipio" targetNamespace="http://tempuri.org/dsNombreMunicipio.xsd" xmlns:mstns="http://tempuri.org/dsNombreMunicipio.xsd" xmlns="http://tempuri.org/dsNombreMunicipio.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConexionCOBAO" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConexionCOBAO (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.ControlEscolar.Properties.Settings.GlobalReference.Default.ConexionCOBAO" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="municipioTableAdapter" GeneratorDataComponentClassName="municipioTableAdapter" Name="municipio" UserDataComponentName="municipioTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConexionCOBAO (Settings)" DbObjectName="cobao.municipio" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `NombreMunicipio` FROM `municipio`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="NombreMunicipio" DataSetColumn="NombreMunicipio" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsNombreMunicipio" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="dsNombreMunicipio" msprop:Generator_UserDSName="dsNombreMunicipio">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="municipio" msprop:Generator_TableClassName="municipioDataTable" msprop:Generator_TableVarName="tablemunicipio" msprop:Generator_TablePropName="municipio" msprop:Generator_RowDeletingName="municipioRowDeleting" msprop:Generator_RowChangingName="municipioRowChanging" msprop:Generator_RowEvHandlerName="municipioRowChangeEventHandler" msprop:Generator_RowDeletedName="municipioRowDeleted" msprop:Generator_UserTableName="municipio" msprop:Generator_RowChangedName="municipioRowChanged" msprop:Generator_RowEvArgName="municipioRowChangeEvent" msprop:Generator_RowClassName="municipioRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NombreMunicipio" msprop:Generator_ColumnVarNameInTable="columnNombreMunicipio" msprop:Generator_ColumnPropNameInRow="NombreMunicipio" msprop:Generator_ColumnPropNameInTable="NombreMunicipioColumn" msprop:Generator_UserColumnName="NombreMunicipio" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

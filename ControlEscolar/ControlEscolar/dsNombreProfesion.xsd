@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsNombreProfesion" targetNamespace="http://tempuri.org/dsNombreProfesion.xsd" xmlns:mstns="http://tempuri.org/dsNombreProfesion.xsd" xmlns="http://tempuri.org/dsNombreProfesion.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConexionCOBAO" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConexionCOBAO (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.ControlEscolar.Properties.Settings.GlobalReference.Default.ConexionCOBAO" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="profesionesTableAdapter" GeneratorDataComponentClassName="profesionesTableAdapter" Name="profesiones" UserDataComponentName="profesionesTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConexionCOBAO (Settings)" DbObjectName="cobao.profesiones" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `NombreProfesion` FROM `profesiones`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="NombreProfesion" DataSetColumn="NombreProfesion" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsNombreProfesion" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="dsNombreProfesion" msprop:Generator_UserDSName="dsNombreProfesion">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="profesiones" msprop:Generator_TableClassName="profesionesDataTable" msprop:Generator_TableVarName="tableprofesiones" msprop:Generator_TablePropName="profesiones" msprop:Generator_RowDeletingName="profesionesRowDeleting" msprop:Generator_RowChangingName="profesionesRowChanging" msprop:Generator_RowEvHandlerName="profesionesRowChangeEventHandler" msprop:Generator_RowDeletedName="profesionesRowDeleted" msprop:Generator_UserTableName="profesiones" msprop:Generator_RowChangedName="profesionesRowChanged" msprop:Generator_RowEvArgName="profesionesRowChangeEvent" msprop:Generator_RowClassName="profesionesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NombreProfesion" msprop:Generator_ColumnVarNameInTable="columnNombreProfesion" msprop:Generator_ColumnPropNameInRow="NombreProfesion" msprop:Generator_ColumnPropNameInTable="NombreProfesionColumn" msprop:Generator_UserColumnName="NombreProfesion">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

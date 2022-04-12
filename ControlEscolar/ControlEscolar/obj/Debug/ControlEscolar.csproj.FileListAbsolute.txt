@@ -1,0 +1,414 @@
+C:\Users\Gerardo Juárez Salmo\documents\visual studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.config
+C:\Users\Gerardo Juárez Salmo\documents\visual studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe
+C:\Users\Gerardo Juárez Salmo\documents\visual studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.pdb
+C:\Users\Gerardo Juárez Salmo\documents\visual studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo Juárez Salmo\documents\visual studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInscripcion.resources
+C:\Users\Gerardo Juárez Salmo\documents\visual studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMenuPrincipal.resources
+C:\Users\Gerardo Juárez Salmo\documents\visual studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaUsuario.resources
+C:\Users\Gerardo Juárez Salmo\documents\visual studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmRegistroUsuarios.resources
+C:\Users\Gerardo Juárez Salmo\documents\visual studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Properties.Resources.resources
+C:\Users\Gerardo Juárez Salmo\documents\visual studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.GenerateResource.Cache
+C:\Users\Gerardo Juárez Salmo\documents\visual studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe
+C:\Users\Gerardo Juárez Salmo\documents\visual studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.pdb
+C:\Users\Gerardo Juárez Salmo\documents\visual studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlergias.resources
+C:\Users\Gerardo Juárez Salmo\documents\visual studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmEnfermedad.resources
+C:\Users\Gerardo Juárez Salmo\documents\visual studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmModificarUsuario.resources
+C:\Users\Gerardo Juárez Salmo\documents\visual studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAltaDocente.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocente.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Otros\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.config
+C:\Users\Gerardo Juárez Salmo\Documents\Otros\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe
+C:\Users\Gerardo Juárez Salmo\Documents\Otros\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.pdb
+C:\Users\Gerardo Juárez Salmo\Documents\Otros\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe
+C:\Users\Gerardo Juárez Salmo\Documents\Otros\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.pdb
+C:\Users\Gerardo Juárez Salmo\Documents\Otros\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\MySql.Data.dll
+C:\Users\Gerardo Juárez Salmo\Documents\Otros\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo Juárez Salmo\Documents\Otros\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlergias.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Otros\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAltaDocente.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Otros\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocente.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Otros\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmEnfermedad.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Otros\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInscripcion.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Otros\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMenuPrincipal.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Otros\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmModificarUsuario.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Otros\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaUsuario.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Otros\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmRegistroUsuarios.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Otros\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Properties.Resources.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Otros\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.GenerateResource.Cache
+C:\Users\Gerardo Juárez Salmo\Documents\Otros\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaEnfermedad.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.config
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.pdb
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.pdb
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\MySql.Data.dll
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlergias.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAltaDocente.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaEnfermedad.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocente.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmEnfermedad.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInscripcion.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMenuPrincipal.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmModificarUsuario.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaUsuario.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmRegistroUsuarios.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Properties.Resources.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.GenerateResource.Cache
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlergia.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoAlergia.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBuaquedaAlumnoAlergia.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoEnfermedad.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlumnoEnfermedad.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmCalificaciones.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmDocentesMaterias.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInicioSesion.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReinscripcion.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaCalificaciones.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocentesMaterias.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaInscripcion.resources
+C:\Users\Gerardo Juárez Samor\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReporteInscripcion.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.config
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.pdb
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.pdb
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\MySql.Data.dll
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlergias.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAltaDocente.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoAlergia.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoEnfermedad.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBuaquedaAlumnoAlergia.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlergia.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlumnoEnfermedad.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaCalificaciones.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocentesMaterias.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaEnfermedad.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocente.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaInscripcion.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmCalificaciones.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmDocentesMaterias.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmEnfermedad.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInicioSesion.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInscripcion.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMenuPrincipal.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmModificarUsuario.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaUsuario.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmRegistroUsuarios.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReinscripcion.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReporteInscripcion.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Properties.Resources.resources
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.GenerateResource.Cache
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.config
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.pdb
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.pdb
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\MySql.Data.dll
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlergias.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAltaDocente.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoAlergia.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoEnfermedad.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBuaquedaAlumnoAlergia.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlergia.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlumnoEnfermedad.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaCalificaciones.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocentesMaterias.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaEnfermedad.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocente.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaInscripcion.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmCalificaciones.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmDocentesMaterias.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmEnfermedad.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInicioSesion.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInscripcion.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMenuPrincipal.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmModificarUsuario.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaUsuario.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmRegistroUsuarios.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReinscripcion.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReporteInscripcion.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Properties.Resources.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.GenerateResource.Cache
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReporteReinscripcion.resources
+C:\Users\Gerardo Juárez\Documents\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMateriasSemestre.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.config
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.pdb
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.pdb
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\MySql.Data.dll
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlergias.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAltaDocente.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoAlergia.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoEnfermedad.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBuaquedaAlumnoAlergia.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlergia.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlumnoEnfermedad.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaCalificaciones.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocentesMaterias.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaEnfermedad.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocente.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaInscripcion.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmCalificaciones.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmDocentesMaterias.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmEnfermedad.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInicioSesion.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInscripcion.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMateriasSemestre.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMenuPrincipal.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmModificarUsuario.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaUsuario.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmRegistroUsuarios.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReinscripcion.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReporteInscripcion.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReporteReinscripcion.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Properties.Resources.resources
+C:\Users\Gerardo Juárez\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.GenerateResource.Cache
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.config
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.pdb
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.pdb
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\MySql.Data.dll
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csprojResolveAssemblyReference.cache
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlergias.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAltaDocente.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoAlergia.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoEnfermedad.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBuaquedaAlumnoAlergia.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlergia.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlumnoEnfermedad.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaCalificaciones.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocentesMaterias.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaEnfermedad.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocente.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaInscripcion.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmCalificaciones.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmDocentesMaterias.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmEnfermedad.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInicioSesion.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInscripcion.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMateriasSemestre.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMenuPrincipal.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmModificarUsuario.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaUsuario.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmRegistroUsuarios.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReinscripcion.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReporteInscripcion.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReporteReinscripcion.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Properties.Resources.resources
+C:\Users\gjs\Documents\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.GenerateResource.Cache
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.config
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.pdb
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\MySql.Data.dll
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlergias.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAltaDocente.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoAlergia.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoEnfermedad.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBuaquedaAlumnoAlergia.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlergia.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlumnoEnfermedad.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaCalificaciones.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocentesMaterias.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaEnfermedad.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocente.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaInscripcion.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmCalificaciones.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmDocentesMaterias.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmEnfermedad.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInicioSesion.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInscripcion.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMateriasSemestre.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMenuPrincipal.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmModificarUsuario.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaUsuario.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmRegistroUsuarios.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReinscripcion.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReporteInscripcion.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReporteReinscripcion.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Properties.Resources.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.GenerateResource.Cache
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.pdb
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaMateriaSemestre.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMaterias.resources
+C:\Users\Gerardo Juarez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaMateria.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.config
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.pdb
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlergias.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAltaDocente.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoAlergia.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoEnfermedad.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoServicioSocial.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBuaquedaAlumnoAlergia.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlergia.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlumnoEnfermedad.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaCalificaciones.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocentesMaterias.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaEnfermedad.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocente.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaInscripcion.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaMateria.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaMateriaSemestre.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmCalificaciones.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmDocentesMaterias.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmEnfermedad.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInicioSesion.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInscripcion.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMaterias.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMateriasSemestre.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMenuPrincipal.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmModificarUsuario.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaUsuario.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmRegistroUsuarios.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReinscripcion.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReporteInscripcion.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReporteReinscripcion.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.splashscreen.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Properties.Resources.resources
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.GenerateResource.Cache
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.pdb
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.manifest
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.application
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe.manifest
+C:\Users\Gerardo Juárez\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.application
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.config
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.manifest
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.application
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.pdb
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\MySql.Data.dll
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlergias.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAltaDocente.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoAlergia.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoEnfermedad.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoGrupo.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoMaterias.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoServicioSocial.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBoleta.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBuaquedaAlumnoAlergia.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlergia.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlumnoEnfermedad.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlumnoGrupo.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlumnoMateria.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaCalificaciones.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaCFT.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocentesMaterias.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaEnfermedad.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocente.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaInscripcion.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaMateria.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaMateriaCFT.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaMateriaSemestre.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaServicioSocial.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmCalificaciones.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmCartadepresentacion.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmCFT.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmConstanciaDeEstudios.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmConsultaCalificaciones.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmDocentesMaterias.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmEnfermedad.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmEstadisticas.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInformesServicioSocial.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInicioSesion.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInscripcion.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMaterias.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMateriasCFT.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMateriasSemestre.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMenuPrincipal.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmModificarUsuario.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaUsuario.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmPermisoDeClases.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmRegistroUsuarios.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReinscripcion.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReporteInscripcion.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReporteReinscripcion.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmSolicitudServicioSocial.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.splashscreen.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Properties.Resources.resources
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.GenerateResource.Cache
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe.manifest
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.application
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.pdb
+C:\Users\Gerardo Juárez Salmo\Documents\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csprojResolveAssemblyReference.cache
+D:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.config
+D:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe
+D:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.pdb
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.config
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.pdb
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.manifest
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.application
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.pdb
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csprojResolveAssemblyReference.cache
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlergias.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAltaDocente.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoAlergia.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoEnfermedad.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoGrupo.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoMaterias.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmAlumnoServicioSocial.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBoleta.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBuaquedaAlumnoAlergia.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlergia.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlumnoEnfermedad.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlumnoGrupo.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaAlumnoMateria.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaCalificaciones.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaCFT.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocentesMaterias.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaEnfermedad.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaDocente.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaInscripcion.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaMateria.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaMateriaCFT.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaMateriaSemestre.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaServicioSocial.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmCalificaciones.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmCartadepresentacion.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmCFT.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmConstanciaDeEstudios.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmConsultaCalificaciones.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmDocentesMaterias.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmEnfermedad.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmEstadisticas.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInformesServicioSocial.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInicioSesion.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmInscripcion.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMaterias.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMateriasCFT.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMateriasSemestre.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmMenuPrincipal.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmModificarUsuario.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmBusquedaUsuario.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmPermisoDeClases.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmRegistroUsuarios.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReinscripcion.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReporteInscripcion.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmReporteReinscripcion.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.frmSolicitudServicioSocial.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.presentacion.splashscreen.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Properties.Resources.resources
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.GenerateResource.Cache
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe.manifest
+E:\Residencia Profesional Final\Proyecto Residencia Profesional\Resi V3\Visual Studio 2013\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.application
