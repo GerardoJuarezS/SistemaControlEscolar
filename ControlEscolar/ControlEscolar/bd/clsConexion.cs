@@ -12,7 +12,7 @@ namespace ControlEscolar.bd
     {
         public static MySqlConnection BaseDeDatos()
         {
-            MySqlConnection conectar = new MySqlConnection("server=127.0.0.1; database=cobao;user=root;pwd=1990-2014; max pool size=2048");
+            MySqlConnection conectar = new MySqlConnection("server=URL; database=basededatos;user=usuario;pwd=contraseña; max pool size=2048");
             try
             {
                 conectar.Open();
